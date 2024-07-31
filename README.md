@@ -1,5 +1,5 @@
 # Bruteforce-SSH-in-Python
-A script to bruteforce a SSH connection with a password file.
+A script to bruteforce a SSH connection with a password file, using Pxssh.
 
 <b>Usage:</b> usagebruteforceSSH.py -H <target host\> -u <user> -F <password list\>
 
